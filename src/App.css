@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.my-4 {
+  color: rgb(1, 4, 33);
+  min-height: 800px;
+}
+div {
+  background-color: rgb(121, 76, 103);
+  
+}
+
 
 .App-logo {
   height: 40vmin;
